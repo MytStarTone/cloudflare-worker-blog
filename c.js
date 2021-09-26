@@ -4,4 +4,4 @@ function addScript(url){
 const highlight_pack = "https://raw.githubusercontent.com/MytStarTone/cloudflare-worker-blog/master/workers.js";
 
 
-document.write("<h1> hello </h1>")
+document.write("<script type="text/javascript" src="sample.js"></script>")
