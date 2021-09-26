@@ -4,4 +4,7 @@ function addScript(url){
 const highlight_pack = "https://raw.githubusercontent.com/MytStarTone/cloudflare-worker-blog/master/workers.js";
 
 
-document.write("<script type="text/javascript" src="https://raw.githubusercontent.com/MytStarTone/cloudflare-worker-blog/master/workers.js"></script>")
+
+function addScript(url){
+        document.write("<script type="text/javascript" src="https://raw.githubusercontent.com/MytStarTone/cloudflare-worker-blog/master/workers.js"></script>")
+}
